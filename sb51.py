@@ -6,4 +6,4 @@ for i in dig:
 p=""
 for z in k:
     p+=z
-print(p)
+print(p[:(len(p)-1)])
